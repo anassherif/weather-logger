@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">WeatherLogger</string>
+
+    <!-- Menu -->
+    <string name="menu_save">Save</string>
+
+    <!-- Headers -->
+    <string name="header_weather_details">Weather Details</string>
+
+    <!-- Format -->
+    <string name="format_temp">Temp: %s</string>
+    <string name="format_date">Date: %s</string>
+    <string name="format_pressure">Pressure: %s</string>
+    <string name="format_humidity">Pressure: %s</string>
+
+
+    <!-- Texts -->
+    <string name="text_more_details">More Details</string>
+
+    <!-- Buttons -->
+    <string name="btn_clear_data">Clear Data</string>
+
+    <!-- Errors -->
+    <string name="errors_no_location_data_found">No location data found</string>
+    <string name="errors_no_data_available">No data available</string>
+</resources>
